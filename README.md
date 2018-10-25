@@ -1,5 +1,4 @@
 
-README.md
 Requisitos previos a tener en cuenta:
 - Tener instalado Apache en su computadora
 - Habilitar el módulo apache CGID
