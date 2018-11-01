@@ -5,7 +5,6 @@ if($ENV{'QUERY_STRING'} eq "") {
    print "<h1>Bienvenido al formulario. Indique su nombre: </h1>
           <form method=\"get\" >";
 
-
 print   "<input type=\"text\"  name=\"nombre\" />";
 print   "<input type=\"submit\" value=\"Search\" />";
 }
