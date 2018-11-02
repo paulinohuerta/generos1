@@ -1,4 +1,3 @@
-
 #!/usr/bin/perl
 
 use CGI;
@@ -9,11 +8,13 @@ print $query->start_html('Datos Personales');
 if(!$query->param) {
         print $query->start_form;
         print $query->h1('Bienvenido. Introduzca su nombre');
-        print $query->textfield('nombre');
-        print $query->submit;
+        print $query->textfield(-name=>'nombre');
+        print $query->submit(-value=>'Enviar');
         print $query->end_form;
         print $query->br;
 }
+
+
 
 
 
