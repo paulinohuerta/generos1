@@ -17,6 +17,12 @@
 <pre><code class="language-sh">$ sudo apt-get install firefox
 $ sudo apt-get install chrome
 </code></pre>
+<ul>
+<li>Instalar:</li>
+</ul>
+<pre><code class="language-sh">$ cpan -i CGI
+</code></pre>
+
 <h1><a id="Instalacin_18"></a>Instalación:</h1>
 <p>En este apartado se explicarán los pasos que hay que seguir para la ejecución y uso del script de géneros.</p>
 <ul>
