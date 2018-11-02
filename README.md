@@ -35,5 +35,5 @@ $ sudo apt-get install chrome
 </ul>
 <h1><a id="Actualizaciones_pendientes_27"></a>Actualizaciones pendientes:</h1>
 <ul>
-<li>No he sido capaz aún de hacer el script haciendo uso de mysql, quiero seguir      intentándolo hasta conseguirlo siguiendo tutoriales como, por ejemplo el que se encuentra en la página <a href="https://metacpan.org/pod/distribution/CGI/lib/CGI.pod">https://metacpan.org/pod/distribution/CGI/lib/CGI.pod</a> , porque aún encuentro dificultades para hacerlo.</li>
+<li>No he sido capaz aún de hacer el segundo script completo, quiero seguir      intentándolo hasta conseguirlo siguiendo tutoriales como, por ejemplo el que se encuentra en la página <a href="https://metacpan.org/pod/distribution/CGI/lib/CGI.pod">https://metacpan.org/pod/distribution/CGI/lib/CGI.pod</a> , porque aún encuentro dificultades para hacerlo.</li>
 </ul>
