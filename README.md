@@ -14,9 +14,6 @@
 <ul>
 <li>Estar en posesión de un Cliente Web o Navegador (Firefox, Chrome…)</li>
 </ul>
-<pre><code class="language-sh">$ sudo apt-get install firefox
-$ sudo apt-get install chrome
-</code></pre>
 <ul>
 <li>Instalar:</li>
 </ul>
