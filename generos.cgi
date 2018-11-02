@@ -4,7 +4,7 @@ use CGI;
 $query = new CGI;
 
 print $query->header;
-print $query->start_html('SCRIPT DE GÉNEROS');
+print $query->start_html('SCRIPT TP2');
 if(!$query->param) {
 	print $query->start_form;
       	print $query->h1('Bienvenido. Introduzca su nombre');
