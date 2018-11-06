@@ -31,6 +31,3 @@
 <li>Iniciar el script CGI haciendo uso de un cliente web (a su elección) introduciendo localhost/cgi-bin/generos.pl</li>
 </ul>
 <h1><a id="Actualizaciones_pendientes_27"></a>Actualizaciones pendientes:</h1>
-<ul>
-<li>No he sido capaz aún de hacer el segundo script completo, quiero seguir      intentándolo hasta conseguirlo siguiendo tutoriales como, por ejemplo el que se encuentra en la página <a href="https://metacpan.org/pod/distribution/CGI/lib/CGI.pod">https://metacpan.org/pod/distribution/CGI/lib/CGI.pod</a> , porque aún encuentro dificultades para hacerlo.</li>
-</ul>
