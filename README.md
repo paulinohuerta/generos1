@@ -31,6 +31,4 @@
 <li>Iniciar el script CGI haciendo uso de un cliente web (a su elección) introduciendo localhost/cgi-bin/generos.pl</li>
 </ul>
 <h1><a id="Actualizaciones_pendientes_27"></a>Actualizaciones pendientes:</h1>
-ul>
-<li></li>
-</ul>
+
